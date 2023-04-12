@@ -6,5 +6,5 @@ Quick description on my actions in the Spaceship Titanic with LAMA.ipynb:
 2. Filled NA with classic methodes + with methodes for this particular dataset
 3. Reduced useage of memory
 4. First verson of model using light auto ml (LAMA library)
-5. Added poly, got an improovment
-6. Finished with stacking, got an improovment
+5. Added poly, got an improvement
+6. Finished with stacking, got an improvement
