@@ -1,7 +1,7 @@
 Old competition from kaggle https://www.kaggle.com/competitions/GiveMeSomeCredit
 Goal is to predict default of a customer
-
-1. First I cleaned some outlyers
+Quick description on my actions in the notebook
+1. First I cleaned some outliers
 2. Then filled NA
 3. Added poly features
 4. Tried Stacking technique. That improoved quality a bit.
